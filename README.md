@@ -1,4 +1,6 @@
-Overview
+README for Assignment 2 Project (BAN6420 - Programming in Python and R)
+Overview:
+
 This project is developed as part of the BAN6420 - Programming in Python and R course assignment. The focus is on importing, processing, and exporting employee salary data using Python and R, with robust error-handling mechanisms. Below are the tasks and functionalities implemented in the project.
 Tasks and Functionalities
 Task 0: Import Salary Data
